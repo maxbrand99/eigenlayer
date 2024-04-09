@@ -1,7 +1,7 @@
 {
 	"name": "0xak & Maxbrand99 EigenDA Node",
 	"website": "https://twitter.com/0xak_",
-	"description": "0xak & Maxbrand99 run node services across multiple chains and products, and have a track record of working with quality projects and maintaining high uptime. We are one of the 10 standard validators for Ronin, maintaining a delegated stake of over $33 million from Ronin users who trust us with 99.99% uptime. We have maintained both the chain and bridge for Ronin (post-hack!) over ~11 months, securing the chain's $232 million TVL and $1B+ in natively issued tokens. We were invited to run, and currently do run a node for the Berachain testnet as well. As developers, community members, solo-stakers, and new-thing enjoyooors, we are excited about the new products and opportunities that Eigenlayer unlocks, and are looking forward to being a part of securing many of them!",
+	"description": "0xak & Maxbrand99 run nodes for multiple products. We are one of 10 validators for Ronin, maintaining 99.99% uptime and a delegated stake of over $33MM+. We have maintained both the chain & bridge for Ronin for over ~11 months, securing the chain's $230MM+ TVL & $1B+ in natively issued tokens. We also were invited to and currently do run a node for the Berachain testnet. As devs, community members, and solo-stakers we are excited about the new products and opportunities that Eigenlayer unlocks!",
 	"logo": "https://raw.githubusercontent.com/maxbrand99/eigenlayer/main/alienkong.png",
 	"twitter": "https://twitter.com/0xak_"
 }
